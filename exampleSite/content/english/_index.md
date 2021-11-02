@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: မြန်နှုန်းမြင့် ကြိုးမဲ့အင်တာနက် 
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
